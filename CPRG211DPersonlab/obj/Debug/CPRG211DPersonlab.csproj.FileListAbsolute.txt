@@ -1,0 +1,8 @@
+C:\Users\Benma\Documents\CPRG 211\CPRG211DPersonlab\CPRG211DPersonlab\bin\Debug\CPRG211DPersonlab.exe.config
+C:\Users\Benma\Documents\CPRG 211\CPRG211DPersonlab\CPRG211DPersonlab\bin\Debug\CPRG211DPersonlab.exe
+C:\Users\Benma\Documents\CPRG 211\CPRG211DPersonlab\CPRG211DPersonlab\bin\Debug\CPRG211DPersonlab.pdb
+C:\Users\Benma\Documents\CPRG 211\CPRG211DPersonlab\CPRG211DPersonlab\obj\Debug\CPRG211DPersonlab.csproj.AssemblyReference.cache
+C:\Users\Benma\Documents\CPRG 211\CPRG211DPersonlab\CPRG211DPersonlab\obj\Debug\CPRG211DPersonlab.csproj.SuggestedBindingRedirects.cache
+C:\Users\Benma\Documents\CPRG 211\CPRG211DPersonlab\CPRG211DPersonlab\obj\Debug\CPRG211DPersonlab.csproj.CoreCompileInputs.cache
+C:\Users\Benma\Documents\CPRG 211\CPRG211DPersonlab\CPRG211DPersonlab\obj\Debug\CPRG211DPersonlab.exe
+C:\Users\Benma\Documents\CPRG 211\CPRG211DPersonlab\CPRG211DPersonlab\obj\Debug\CPRG211DPersonlab.pdb
